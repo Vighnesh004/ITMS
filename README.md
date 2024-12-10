@@ -13,8 +13,3 @@ This project was on registration website built using HTML, CSS, JavaScript, PHP,
 1. [XAMPP](https://www.apachefriends.org/index.html) (for Apache Server and MySQL)  
 2. A web browser  
 3. Code editor (e.g., VS Code)  
-
-## Installation Steps  
-1. Clone this repository:  
-   ```bash  
-   git clone https://github.com/your-username/register-website.git
